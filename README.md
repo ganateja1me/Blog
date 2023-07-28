@@ -43,7 +43,7 @@ https://github.com/ganateja1me/gojo_blog/assets/96363115/e77a49ef-1899-42f2-941e
 
 #### Run server locally
 
-> Go to localhost:3000
+> Go to localhost:8000
 
 
 
